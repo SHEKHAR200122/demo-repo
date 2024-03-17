@@ -6,3 +6,8 @@ Adding another line to the file
 Hello horld!  
 
 	😊
+
+## Devolapment Enverionment 
+
+Make sure you have javascript avilbale 
+Run index.html in browser
